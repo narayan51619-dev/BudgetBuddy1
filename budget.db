@@ -1,0 +1,20 @@
+BudgetBuddy/
+├── app.py
+├── database.py
+├── budget.db
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── user_dashboard.html
+│   ├── set_budget.html
+│   ├── expenses.html
+│   ├── monthly_history.html
+│   ├── admin_dashboard.html
+│   └── admin_user_detail.html
+└── static/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── charts.js
